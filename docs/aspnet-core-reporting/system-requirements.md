@@ -1,1 +1,1 @@
-system-requirements changed 8/10 3.40
+system-requirements changed 8/10 3.47
